@@ -1,2 +1,8 @@
 # Projects
 Upload projects to review the code
+
+Copyright 2017, GEICO, All rights reserved.
+
+FOR USE BY GEICO ONLY
+
+USE THIS REPOSITORY WITH CAUTION, IT IS PUBLIC SO DON'T POST ANYTHING THAT SHOULDN'T BE ONLINE.
