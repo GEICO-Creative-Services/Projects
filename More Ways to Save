@@ -7,7 +7,7 @@
     <!-- Forcing initial-scale shouldn't be necessary -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Use the latest (edge) version of IE rendering engine -->
-    <title>New things to know in your new state.</title>
+    <title>Time to take that old GEICO quote for a ride.</title>
     <!-- The title tag shows in email notifications, like Android 4.4. -->
     <!-- Please use an inliner tool to convert all CSS to inline as inpage or external CSS is removed by email clients -->
     <!-- important in CSS is used to prevent the styles of currently inline CSS from overriding the ones mentioned in media queries when corresponding screen sizes are encountered -->
@@ -36,7 +36,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
             
             <!-- Visually Hidden Preheader Text : BEGIN -->
             <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;">
-            New things to know in your new state.
+            The right coverage. The right price.
             </div>
             <!-- Visually Hidden Preheader Text : END --> 
             
